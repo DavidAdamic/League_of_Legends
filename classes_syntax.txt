@@ -1,0 +1,18 @@
+CREATE TABLE classes (
+  c_id INTEGER,
+  c_name TEXT NOT NULL
+  );
+
+INSERT INTO classes (c_id, c_name) VALUES (1, 'Controller - Enchanter');
+INSERT INTO classes (c_id, c_name) VALUES (2, 'Controller - Catcher');
+INSERT INTO classes (c_id, c_name) VALUES (3, 'Fighter - Juggernaut');
+INSERT INTO classes (c_id, c_name) VALUES (4, 'Fighter - Diver');
+INSERT INTO classes (c_id, c_name) VALUES (5, 'Mage - Burst');
+INSERT INTO classes (c_id, c_name) VALUES (6, 'Mage - Battlemage');
+INSERT INTO classes (c_id, c_name) VALUES (7, 'Mage - Artillery');
+INSERT INTO classes (c_id, c_name) VALUES (8, 'Marksman');
+INSERT INTO classes (c_id, c_name) VALUES (9, 'Slayer - Assassin');
+INSERT INTO classes (c_id, c_name) VALUES (10, 'Slayer - Skirmisher');
+INSERT INTO classes (c_id, c_name) VALUES (11, 'Tank - Vanguard');
+INSERT INTO classes (c_id, c_name) VALUES (12, 'Tank - Warden');
+INSERT INTO classes (c_id, c_name) VALUES (13, 'Specialist (Unclassified)');

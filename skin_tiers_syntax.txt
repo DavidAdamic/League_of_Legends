@@ -1,0 +1,17 @@
+CREATE TABLE skin_tiers (
+  t_id INTEGER,
+  t_name TEXT NOT NULL,
+  t_price TEXT
+  );
+
+INSERT INTO skin_tiers (t_id, t_name, t_price) VALUES (1, 'Ultimate', '3250 RP');
+INSERT INTO skin_tiers (t_id, t_name, t_price) VALUES (2, 'Legendary', '1820 RP');
+INSERT INTO skin_tiers (t_id, t_name, t_price) VALUES (3, 'Epic', '1350 RP');
+INSERT INTO skin_tiers (t_id, t_name, t_price) VALUES (4, 'Standard', '975 RP');
+INSERT INTO skin_tiers (t_id, t_name, t_price) VALUES (5, 'Budget', '750 RP');
+INSERT INTO skin_tiers (t_id, t_name, t_price) VALUES (6, 'Timeworn', '520 RP');
+INSERT INTO skin_tiers (t_id, t_name, t_price) VALUES (7, 'Timeworn', '390 RP');
+INSERT INTO skin_tiers (t_id, t_name, t_price) VALUES (8, 'Legacy', 'Available on special occasions');
+INSERT INTO skin_tiers (t_id, t_name, t_price) VALUES (9, 'Mythic', '10 Gemstones (Hextech Crafting)');
+INSERT INTO skin_tiers (t_id, t_name, t_price) VALUES (10, 'Prestige', 'Limited event skins');
+INSERT INTO skin_tiers (t_id, t_name, t_price) VALUES (11, 'Limited', 'No longer available');

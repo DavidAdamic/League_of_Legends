@@ -1,0 +1,10 @@
+CREATE TABLE positions (
+  p_id INTEGER,
+  p_name TEXT NOT NULL
+  );
+
+INSERT INTO positions (p_id, p_name) VALUES (1, 'Top lane');
+INSERT INTO positions (p_id, p_name) VALUES (2, 'Jungle');
+INSERT INTO positions (p_id, p_name) VALUES (3, 'Mid lane');
+INSERT INTO positions (p_id, p_name) VALUES (4, 'Bot lane');
+INSERT INTO positions (p_id, p_name) VALUES (5, 'Support');

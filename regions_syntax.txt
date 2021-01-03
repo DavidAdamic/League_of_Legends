@@ -1,0 +1,19 @@
+CREATE TABLE regions (
+  r_id INTEGER,
+  r_name TEXT NOT NULL
+  );
+
+INSERT INTO regions (r_id, r_name) VALUES (0, 'Runeterra');
+INSERT INTO regions (r_id, r_name) VALUES (1, 'The Freljord');
+INSERT INTO regions (r_id, r_name) VALUES (2, 'Demacia');
+INSERT INTO regions (r_id, r_name) VALUES (3, 'Noxus');
+INSERT INTO regions (r_id, r_name) VALUES (4, 'Ionia');
+INSERT INTO regions (r_id, r_name) VALUES (5, 'Shurima');
+INSERT INTO regions (r_id, r_name) VALUES (6, 'Piltover');
+INSERT INTO regions (r_id, r_name) VALUES (7, 'Zaun');
+INSERT INTO regions (r_id, r_name) VALUES (8, 'Ixtal');
+INSERT INTO regions (r_id, r_name) VALUES (9, 'The Void');
+INSERT INTO regions (r_id, r_name) VALUES (10, 'Bilgewater');
+INSERT INTO regions (r_id, r_name) VALUES (11, 'Shadow Isles');
+INSERT INTO regions (r_id, r_name) VALUES (12, 'Targon');
+INSERT INTO regions (r_id, r_name) VALUES (13, 'Bandle City');
