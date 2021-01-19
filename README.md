@@ -17,3 +17,5 @@ Repozitorij vsebuje naslednje datoteke:
 - *diagram_slika*: zaslonska slika diagrama za lažje dostopanje vsebine diagrama in možnost vključitve slike v REAMDE file
 - *League*: sama baza katero izdelujeva (SQL)
 - *_syntax*: txt datoteke sintakse (ustvarjanje tabele in vstavljanje vseh podatkov)
+
+Ozadje na spletnem umesniku: https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Temple_of_Lily_and_Lotus_background.jpg/
